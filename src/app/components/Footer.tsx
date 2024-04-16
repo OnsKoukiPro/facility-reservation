@@ -17,7 +17,7 @@ const Footer = () => {
             <p>123 Road</p>
             <div className='flex items-center py-4'>
               <BsFillSendFill />
-              <p className='ml-2'>BONJOUR</p>
+              <p className='ml-2'>hello</p>
             </div>
             <div className='flex items-center'>
               <BsTelephoneOutbound />
